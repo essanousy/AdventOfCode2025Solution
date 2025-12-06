@@ -1,4 +1,6 @@
 ﻿using AdventOfCode2025Solution.Day1;
+using AdventOfCode2025Solution.Day2;
 
-int solution = SolutionDay1.Solve();
-Console.WriteLine($"Solution for Day 1: {solution}");
+//Console.WriteLine($"Solution for Day 1: {SolutionDay1.Solve()}");
+ 
+Console.WriteLine($"Solution for Day 2: {SolutionDay2.Solve()}");
